@@ -27,7 +27,7 @@ VERSION = "1.1.0"
 REQUIRES = [
     "certifi>=2017.4.17",
     "python-dateutil>=2.1",
-    "six>=1.10",
+    "six>=1.17.0",
     "urllib3>=1.23"
 ]
     
